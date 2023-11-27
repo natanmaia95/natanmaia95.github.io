@@ -215,14 +215,24 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  background-color: white;
+  opacity: .95;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+
+  margin: 20pt;
+  border-radius: 20pt;
+  border: 2pt solid black;
 }
 
 .navbar .dropdown-menu {
-  background-color: var(--global-bg-color);
-  border: 1px solid var(--global-divider-color);
+  background-color: white;
+  border-radius: 10pt;
+  border: 2pt solid black;
 
   a:not(.active) {
     color: var(--global-text-color);
