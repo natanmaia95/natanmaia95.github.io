@@ -213,20 +213,42 @@ blockquote {
 
 // Navbar customization
 
+.navparent {
+  
+  height: auto;
+  position: fixed;
+  top: -4pt;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  z-index: 1030;
+  // border: 6pt solid black;
+}
+
 .navbar {
   box-shadow: none;
-  background-color: white;
-  opacity: .95;
+  background-color: var(--global-bg-color);
+  // opacity: .95;
 
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
+  // position: fixed;
+  // top: 0;
+  // right: 1vw;
+  // left: 0;
+  // right: "50%";
   z-index: 1030;
 
   margin: 20pt;
+  margin-top: 0;
   border-radius: 20pt;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
   border: 2pt solid black;
+  border-top: 0;
+
+  max-width: $max-content-width;
+  flex: 1;
+  // margin-left: calc(vw - $max-content-width/2);
 }
 
 .navbar .dropdown-menu {
@@ -618,7 +640,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: 240px;
     margin-bottom: 10px;
   }
 
@@ -846,7 +868,13 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+// .post-holder {
+
+// }
+
 .post {
+  background-color: var(--global-bg-color);
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;

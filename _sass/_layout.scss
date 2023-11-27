@@ -3,9 +3,12 @@
  ******************************************************************************/
 
 body {
+ 
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  // background-color: var(--global-bg-color);
+  background-image: url(../img/layout/gridpaper.png);
+  background-size: 20vh;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -14,7 +17,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 60px;
 }
 
 body.sticky-bottom-footer {
@@ -24,6 +27,12 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+}
+
+.maincontainer {
+  background-color: var(--global-bg-color);
+  padding: 20pt;
+  border: 2pt solid black;
 }
 
 // Profile
