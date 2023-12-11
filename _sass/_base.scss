@@ -440,6 +440,30 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+          
+
+  .container {
+    color: var(--global-footer-text-color);
+    padding-top: 9px;
+    padding-bottom: 8px;
+  }
+
+  a {
+    color: '#ffbbff';
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+footer.sticky-bottom {
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 0.9rem;
+  background-color: var(--global-footer-bg-color);
 
   .container {
     color: var(--global-footer-text-color);
@@ -455,13 +479,6 @@ footer.fixed-bottom {
       text-decoration: none;
     }
   }
-}
-
-footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
 }
 
 // CV

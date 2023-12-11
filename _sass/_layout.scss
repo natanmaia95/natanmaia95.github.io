@@ -9,6 +9,7 @@ body {
   // background-color: var(--global-bg-color);
   background-image: url(../img/layout/gridpaper.png);
   background-size: 20vh;
+  
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -29,10 +30,16 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+.bodycontainer {
+  position: relative;
+  min-height: 100vh;
+}
+
 .maincontainer {
   background-color: var(--global-bg-color);
   padding: 20pt;
   border: 2pt solid black;
+  // padding-bottom: 2.5rem;         
 }
 
 // Profile

@@ -8,7 +8,7 @@ category: major works
 ---
 
 <div class="text-center">
-    {% include video.html path="assets/video/lotusandlyric_preview.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    {% include video.html path="assets/video/projects/lotusandlyric_preview.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
 ## About the Project
@@ -57,12 +57,12 @@ I will save the story and characters for a possibly better scoped project in the
 <div class="caption">Gameplay with commentary from youtuber BigSquirrel. Some assets have changed since then.</div>
 
 <div class="text-center">
-    {% include figure.html path="assets/img/projects/lotusandlyric_sprites.png" title="" class="post-img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/lotusandlyric_sprites.png" title="" class="post-img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 <div class="caption">Sprites for characters and enemies, including unused ones.</div>
 
 <div class="text-center">
-    {% include figure.html path="assets/img/projects/lotusandlyric_characters.png" title="" class="post-img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/lotusandlyric_characters.png" title="" class="post-img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 <div class="caption">Extended view of all the character art.</div>
 
