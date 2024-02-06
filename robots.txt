@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nateplays95.github.io/website/sitemap.xml
+Sitemap: https://nateplays95.github.io/sitemap.xml
