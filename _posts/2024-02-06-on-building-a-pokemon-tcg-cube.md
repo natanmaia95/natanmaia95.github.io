@@ -300,3 +300,12 @@ but for now I can barely even get my friends to play the cube, so asking them fo
 As I mentioned at the start, I like to treat the Cube draft similarly to a board gaming night with Munchkin or D&D oneshots or other games
 that require a long time commitment and a close group of friends. Something I can use to spice an otherwise boring travel weekend or
 downtime in an anime convention.
+
+# Update
+
+I ported the cube over to the PokemonCard website! I'm 90% sure it's not missing any cards amongs the 470.
+The cube experience is a bit buggy but you can simulate a draft with friends on the website, then send the cards to the
+pokemoncard deckbuilder, and from there send to wherever you want to play on.
+
+Here's the link: <a href="https://pokemoncard.io/cube/view-cube/71">https://pokemoncard.io/cube/view-cube/71</a>
+To play, "Clone" the cube to your account and from your cube collection you can play it.
