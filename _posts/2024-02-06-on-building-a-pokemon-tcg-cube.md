@@ -306,7 +306,7 @@ downtime in an anime convention.
 
 # Update
 
-I ported the cube over to the PokemonCard website! I'm 90% sure it's not missing any cards amongs the 470.
+I ported the cube over to the PokemonCard website! I'm 90% sure it's not missing any cards amongst the 470.
 The cube experience is a bit buggy but you can simulate a draft with friends on the website, then send the cards to the
 pokemoncard deckbuilder, and from there send to wherever you want to play on.
 
