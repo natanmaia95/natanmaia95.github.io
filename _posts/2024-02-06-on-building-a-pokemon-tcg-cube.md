@@ -5,6 +5,9 @@ date: 2024-02-05
 #description: an example of a blog post with table of contents
 tags: tcg
 related_posts: false
+toc:
+  beginning: true
+
 ---
 
 <div class="row mt-3">
