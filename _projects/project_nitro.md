@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Nitro
-description: prototype for a racing game in Godot
+description: racing game in Godot
 img: assets/img/projects/projectnitro_thumb.png
 importance: 1
 category: prototypes

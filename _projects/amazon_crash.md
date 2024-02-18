@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Amazon Crash
-description: prototype for 2D action boss-rush
+description: rough sketch of 2D action boss-rush
 img: assets/img/projects/amazoncrash_thumb.jpg
 importance: 1
 category: prototypes

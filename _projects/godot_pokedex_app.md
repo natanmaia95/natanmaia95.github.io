@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PokeData App
-description: prototype for a pokedéx mobile app
+description: a mobile pokedéx app
 img: assets/img/projects/pokedata_app_thumb.jpg
 importance: 1
-category: prototypes
+category: apps
 ---
 <!-- 
 <div class="text-center">
