@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On building a Pokémon TCG Cube 
-date: 2024-02-05
+date: 2024-02-06
 #description: an example of a blog post with table of contents
 tags: tcg
 related_posts: false
