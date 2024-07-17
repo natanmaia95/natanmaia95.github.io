@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of games and other fun things.
 nav: true
 nav_order: 2
-display_categories: [major works, prototypes, apps]
+display_categories: [major works, minor works, prototypes, apps]
 horizontal: false
 ---
 

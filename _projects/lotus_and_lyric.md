@@ -4,7 +4,7 @@ title: Lotus and Lyric
 description: vertical slice for a story-driven Strategy RPG
 img: assets/img/projects/lotusandlyric_thumb.jpg
 importance: 1
-category: major works
+category: prototypes
 ---
 
 <div class="text-center">

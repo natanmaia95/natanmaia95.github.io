@@ -5,7 +5,6 @@ description: turns pokémon decklists into Tabletop Simulator objects
 img: assets/img/projects/ptcgtts_thumb.jpeg
 importance: 1 # use this for sorting
 category: apps
-related_publications: 
 ---
 
 <div class="text-center">
