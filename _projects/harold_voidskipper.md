@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Harold Voidskipper
-description: a top down, twin-stick action combat game
+description: top down, twin-stick action combat game
 img: https://img.itch.zone/aW1nLzE2NzU3NjA1LnBuZw==/315x250%23c/E0EmTn.png
 importance: 1
 category: minor works
