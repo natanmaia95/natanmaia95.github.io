@@ -43,6 +43,13 @@ so that could bring extra eyes to my work as well.
 As for myself, I had the opportunity to research AI drivers before having studied formal artificial intelligence agents in university, and
 that R&D resulted in a decent set of scripts I can reuse for another racing game project. It's nowhere near framework completeness but I'm getting there.
 
+## Gallery
+
+<div class="text-center">
+    {% include video.html path="assets/video/projects/fishfolkdrifty_video1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
+</div>
+<div class="caption">All different bike models by Paulo, and driver models by Typetree Studio.</div>
+
 ## Download
 
 <a href="https://github.com/fishfolk/drifty">Here's the link to the Github repo</a> if you wanna play or contribute to the project yourself.
