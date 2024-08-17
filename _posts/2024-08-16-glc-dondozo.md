@@ -19,7 +19,6 @@ For this tournament though, I've piloted a deck of my own invention: "30 Energy 
 </div>
 <div class="caption"><a href="https://cardboardwarriors.net/decks/30-Energy-Water-Dondozo-66beaf51dbe024ff355b93bb">Link to the Cardboard Warriors list.</a></div>
 
-
 ## What a claim, huh?
 
 As far as I know I'm the only person online using this strategy in competitive GLC, at least publically.
@@ -38,7 +37,7 @@ in fact were my main inspiration for this build.
 
 ## Design Process
 
-Of course the main inspiration was Kyogre Celebration's absurd self-mill effect, but the actual soul of the deck can be found in this old TrickyGym video
+Yes, the soul of the deck can be found in this old TrickyGym video
 (it wouldn't be one of my posts without a video embed).
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -59,13 +58,14 @@ it was a liability and removed it.
 A few more weeks later, when building a Palafin list and looking for Grudge Dive Basculegion I found that Upstream Spirits Basculegion and immediately thought
 of that Volcarona. "Well, if I have less energy and a few trainers, for each trainer I use my deck becomes more energy, and if I recycle those energy it is all energy now". With that thought process, I made my list with Dondozo and Cryogonal to remove cards from the deck (and Kyogre, but a bit more forceful),
 Basculegion accompanied by Super Rod, Energy Recycler and Brock's Grit, as well as Stretcher and Rod to recover results of prize trades, which all would
-allow me to both better find energy with Dondozo and discard energy with Kyogre. The 40 Energy list was born.
+allow me to both better find energy with Dondozo and discard energy with Kyogre. 
+<a href="https://pokemoncard.io/deck/very-silly-glc-40-energy-water-79605">The 40 Energy list</a> was born.
 
 > Fun fact: "Upstream Spirits" is translated in brazillian cards as "Espiritos de Piracema", with Piracema referring to the specific period where
 > fish swim upstream the Paraguay river to reproduce. A huge step for localization considering it's the same game that would translate
 > "Light(weak) Punch" as "Light(sunlight) Punch".
 
-The final list has been thinned down to 30 energy as my friends suggested I could include even more trainers, to further increase my actions at the first turns.
+The final list has been thinned down to 29 energy as my friends suggested I could include even more trainers, to further increase my actions at the first turns.
 It eventually worked, reducing the chances I get unlucky with a starting hand full of energy but it increased my dependancy on Basculegion reshuffling energies,
 and thus the need to find it via Dive Ball or Irida or Gladion.
 
@@ -82,6 +82,9 @@ As a side effect it makes a for funny reveal of the gimmick before Kyogre (altho
 _Gladion_ is absolutely required for the later 30 energy build, but still nice here, as you want to send your energies back to deck with Basculegion and
 missing that opportunity because it is prized is terrible. Peony could suffice but the random aspect is a put-off for some. You also absolutely need _Hisuian Heavy Ball_ if you prize any of the pivotal mons and Gladion can serve as redundancy for that.
 
+_Red Card_ is actually not needed, but I just love the reactions I get from opponents when I tutor it with Irida or Green as it's not a common card
+at all. Better yet, I've pulled it turn 1 a few times, accidentally offsetting all the extra cards I gave them to mulligans. 
+
 _Acerola_ was a late inclusion for the tournament, as I removed Candice because I hadn't used it in all my recent tests, getting all my pokémon in the field
 by items and stadiums before she could be useful. My thought process was, if I cape any of the two, I can recover their health easily. But with Wailord and
 Haxorus running free in my local meta it is more likely the opponent will OHKO you with an absurd number before you can use Acerola.
@@ -94,7 +97,8 @@ on my Fighting opponnent and locking him out of the game which felt unfair, and 
 So this massive tournament was my opportunity to gather a larger sample size, to further exploit the _surprise factor_ of Dondozo and simply
 just to play more of the deck with people other than my friends, who knew the deck front and back. 
 
-My opponents and results were:
+The deck only has 5 basic pokémon so you'd expect the mulligan rates to be high (they were), 
+but I probably lucked out this day, with two 1-mulls and one 2-mull. My opponents and results were:
 
 Dragon: L | Water: W | Water: L | Fighting: W | Grass: W | Water: L
 
@@ -102,10 +106,11 @@ _Not a biased meta at all._
 
 Water really is one of the worst matchups here, as both Frosmoth and Baxcalibur can keep Cetitan, Wailord, Kyogre and even Wishiwashi well fed really quickly,
 and have at least 2 or three attackers set up for back-to-back trades, which I can't afford unless my own table is fully 100% set up. There were also two
-Lightning decks I had the luck of not fighting against, as they have great repeatable consistency.
+Lightning decks I had the luck of not fighting against, as they have great repeatable consistency. I only won that matchup once because I used Red Card on
+their 4 energy after Kyogre's snipe attack, after they used all their energy search.
 
-Best matchups I feel are probably Fighting and Dark, as Dark hits for very low numbers most of the time, and Fighting has and equally slow setup as you
-but is succeptible to Red Cards and Marnies to lock them out. Fire isn't actually a great matchup as Basculegion is the only mon to realistically take
+Best matchups I feel are probably Fighting and Dark, as Dark hits for very low numbers most of the time and has no Abilities to cancel, and Fighting has and equally slow setup as you but is succeptible to Red Cards and Marnies to lock them out. 
+Fire isn't actually a great matchup as Basculegion is the only mon to realistically take
 advantage of the weakness for quick KOs, but you want it to use its free attack before it dies so it's a risky tradeoff. Dragon seems manageable as
 their setup is as slow as Dondozo's so you can build your bench while they build theirs, then Dondozo for a few kills, Basculegion to shuffle energy, 
 and finally Mallow 2 energy then Kyogre to take their big benched Stage2s away leaving them no escape.
@@ -143,7 +148,8 @@ realistically remove all of them, and Special Charge exists. I'll keep it in min
 ## What's next?
 
 I want to record gameplay of this deck with me piloting it, but I don't have a webcam setup and am not entirelu sure about how well received ptcgsim
-gameplay would be. I'm also not great at commentary, nor are my non-english speaking friends, so that throws a wrench on my plans.
+gameplay would be. I'm also not great at commentary, nor are my non-english speaking friends, so that throws a wrench on my plans. 
+Mostly because I can't quite explain my thought process when playing (I'm not that good of a player haha). 
 
 People at the tournament said I was piloting the deck very well, probably due to the many moments I retreated Dondozo on purpose or used
 Escape Rope or Red Card when opp had search pokemon or energy to rain dance, so I do think this deck doesn't play itself like the original 40 energy idea

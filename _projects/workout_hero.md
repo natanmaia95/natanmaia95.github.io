@@ -2,7 +2,7 @@
 layout: page
 title: Workout Hero
 description: gamified exercise tracker
-img: assets/img/projects/pokedata_app_thumb.jpg
+img: assets/img/projects/workouthero_thumb.png
 importance: 1
 category: apps
 ---
