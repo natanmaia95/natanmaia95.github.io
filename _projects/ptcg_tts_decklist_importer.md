@@ -3,7 +3,7 @@ layout: page
 title: PTCG importer for TTS
 description: turns pokémon decklists into Tabletop Simulator objects
 img: assets/img/projects/ptcgtts_thumb.jpeg
-importance: 1 # use this for sorting
+importance: -2 # use this for sorting
 category: apps
 ---
 
