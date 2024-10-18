@@ -52,7 +52,7 @@ I also posted WIP videos on my Bluesky account. -->
     {% include video.html path="assets/video/projects/movementfps_level2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
-<div class="caption">Gameplay with commentary from streamer HawkZombie, during the jam.</div>
+<div class="caption">Gameplay of a prototype level.</div>
 
 ## Download
 

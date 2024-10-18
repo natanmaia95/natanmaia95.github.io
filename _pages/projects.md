@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of games and other fun things.
+description: 
 nav: true
 nav_order: 2
 display_categories: [games, prototypes, apps, other]
@@ -10,6 +10,11 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+<div class="post-description">
+<p>A growing collection of games and other fun things.</p>
+<p>You can find more public games from me over on <a href="https://nate-the-bard.itch.io/">< Itch.io ></a>.</p>
+</div>
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
