@@ -40,7 +40,10 @@ I'm making the Palicos from Monster Hunter as minecraft pets, with some design o
 clothes and skin patterns, learning skills on level up and such, a similar direction that Cobblemon and Digimod take.
 Here's a showcase of armor sets I've made, including halloween-themed ones for this month.
 
-- picture of all armor sets implemented
+<div class="text-center">
+    {% include figure.html path="assets/img/posts/2024/palico_armors.jpg" title="" class="post-img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+<div class="caption">Making these has been a lot of fun!</div>
 
 I also implemented some of the weapons from the games, as well as a leveled skill system on top of vanilla enchantments,
 which armor and weapons can have. They're not balanced (nor tested at all). I'll first get the damage formula, including
