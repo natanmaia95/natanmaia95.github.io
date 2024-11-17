@@ -87,4 +87,4 @@ But yes, more features would be nice. Being able to search through all the items
 
 ## Download
 
-You can find PokéData App's source code in <a href="https://github.com/NatePlays95/PokeDataApp">this Github repository</a>.
+You can find PokéData App's source code in <a href="https://github.com/natanmaia95/PokeDataApp">this Github repository</a>.

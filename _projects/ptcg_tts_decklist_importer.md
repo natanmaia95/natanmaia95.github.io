@@ -61,4 +61,4 @@ I want to make the app a bit more user friendly to those who can't use Python, h
 
 ## Download
 
-The source code and executable release are available in <a href="https://github.com/NatePlays95/ptcg-tts-decklist-importer">this Github repository.</a>
+The source code and executable release are available in <a href="https://github.com/natanmaia95/ptcg-tts-decklist-importer">this Github repository.</a>

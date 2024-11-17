@@ -37,4 +37,4 @@ In the end, it has a decent and modular system for action games with combo strin
 
 <div class="caption">Average weapon flowchart from Monster Hunter</div>
 
-The <a href="https://github.com/NatePlays95/Amazon-Crash">Github repo</a> is public if you want to check it out. I would love to find an excuse to use this in an actual project soon.
+The <a href="https://github.com/natanmaia95/Amazon-Crash">Github repo</a> is public if you want to check it out. I would love to find an excuse to use this in an actual project soon.

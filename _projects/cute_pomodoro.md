@@ -55,4 +55,4 @@ I also posted WIP videos on my Bluesky account.
 
 ## Download
 
-The source code for Cute Pomodoro is available over on <a href="https://github.com/NatePlays95/cute-pomodoro">this Github repo</a>.
+The source code for Cute Pomodoro is available over on <a href="https://github.com/natanmaia95/cute-pomodoro">this Github repo</a>.
